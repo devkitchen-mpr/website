@@ -1,0 +1,16 @@
+.container {
+    margin: 10px auto;
+}
+
+.container.container--title {
+    border: 1px solid black;
+    width: 50%;
+}
+
+.container--title h1 {
+    font-style: italic;
+    text-align: center;
+}
+
+.container--content {
+}
