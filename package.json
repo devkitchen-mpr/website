@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maajou/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maajou/website/issues"
+  },
+  "homepage": "https://github.com/maajou/website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12",
+    "vue": "^2.6.14"
+  }
+}
